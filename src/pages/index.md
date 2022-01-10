@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great animation with Batuhan
 image: /img/ekran.png
-heading: Great coffee with a conscience
+heading: Great animation with Batuhan
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
