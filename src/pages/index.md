@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great animation with Batuhan
 image: /img/ekran.png
-heading: Great animation with Batuhan
+heading: d
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Cartoon
