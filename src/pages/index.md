@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ss
-image: /img/ekran.png
+image: /img/blog-index.jpg
 heading: d
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
