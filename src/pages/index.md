@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: ss
+title: .........................................
 image: /img/blog-index.jpg
-heading: d
+heading: .....................
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Cartoon
