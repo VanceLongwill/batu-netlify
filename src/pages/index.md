@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great animation with Batuhan
+title: ss
 image: /img/ekran.png
 heading: d
 subheading: Support sustainable farming while enjoying a cup
